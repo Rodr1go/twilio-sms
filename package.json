@@ -1,0 +1,14 @@
+{
+  "name": "twilio-sms",
+  "version": "1.0.0",
+  "description": "Quick Starter para envio de SMS com Twilio. ",
+  "main": "Init.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rodrigo Santos",
+  "license": "ISC",
+  "dependencies": {
+    "twilio": "^3.15.1"
+  }
+}

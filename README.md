@@ -1,5 +1,5 @@
 # twilio-sms
-Quick Starter para envio de SMS com NodeJS utilizando Twilio.
+Quick Starter para envio de SMS com NodeJS utilizando a API do Twilio.
 
 Para testar o código siga os seguintes passos - (Lembrando que antes é preciso criar uma conta no Twilio): 
 - Clone o repositório
